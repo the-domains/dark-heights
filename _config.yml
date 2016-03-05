@@ -1,0 +1,28 @@
+name: Dark Heights
+favicon: null
+layout_spectrum: 0.8019466323312372
+typography_spectrum: 0.009859145618975163
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3438110782299191
+  lightness: 0.4617985787335783
+  saturation: 0.42094250419177115
+  rhythmicContrast: 0.7635504337958992
+purpose: []
