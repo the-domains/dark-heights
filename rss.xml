@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dark Heights]]></title>
         <description><![CDATA[Dark Heights]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dark-heights/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 21:47:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 22:13:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dark-heights/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A new webfiction saga of Weird Suspense and Intense Melodrama is about to begin.</p>]]></description>
-            <link>undefineda-new-webfiction-saga-of-weird-suspense-and-intense-melodram/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/325ee000-adbf-4bb6-b762-40441d93db02.jpg">]]></description>
+            <link>https://thegrid.ai/dark-heights/a-new-webfiction-saga-of-weird-suspense-and-intense-melodram/index.html</link>
             <guid isPermaLink="false">aee96342-e1f9-45a3-abeb-edf771df85da</guid>
-            <pubDate>Wed, 09 Mar 2016 21:36:39 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 21:38:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
