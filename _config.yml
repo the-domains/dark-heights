@@ -1,6 +1,6 @@
 name: Dark Heights
 favicon: null
-layout_spectrum: 0.82587
+layout_spectrum: 0.89994
 typography_spectrum: 0.82829
 title: Dark Heights
 cta:
@@ -23,7 +23,7 @@ color:
     - '#9ea9bd'
     - '#283650'
   brandStrength: 0.5625
-  lightness: 0.1875
+  lightness: 0.3125
   saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
